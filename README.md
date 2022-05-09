@@ -1,2 +1,2 @@
-# Admin-Dashboard-Templates
-Free and open-source HTML Dashboard Templates built on Bootstrap
+# Admin Template and UI Kit
+Free and open-source HTML Admin Dashboard Templates built on Bootstrap
