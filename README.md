@@ -1,8 +1,7 @@
 # Admin Template and UI Kit
 Free and open-source HTML Admin Dashboard Templates built on Bootstrap.
 
-You can use the templates from the list below to build your project.
-(_If you find a good and attractive template that is free, feel free to add it to the list._)
+You can use the templates from the list below to build your project. If you find a good and attractive template that is free, feel free to add it to the list.
 
 Name | Description | Links
 ------------ | ------- | -------
