@@ -2,7 +2,7 @@
 
 <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/alfinauzikri/Admin-Template-and-UI-Kit"></a> <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/alfinauzikri/Admin-Template-and-UI-Kit"></a> <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/alfinauzikri/Admin-Template-and-UI-Kit"></a><br>
 
-**Free** and **open-source** HTML Admin Dashboard Templates built on Bootstrap.
+**Free** and **open-source** Admin Dashboard Templates built on Bootstrap or TailwindCSS.
 
 You can use the templates from the list below to build your project. If you find a good and attractive template that is free, feel free to add it to the list. 
 
@@ -43,5 +43,8 @@ Name | Description | Links
 ### React Templates
 Coming soon..
 
-### VueJS Templates
+### Vue Templates
+Coming soon..
+
+### Angular Templates
 Coming soon..
