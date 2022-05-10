@@ -1,8 +1,12 @@
 # Admin Template and UI Kit
-Free and open-source HTML Admin Dashboard Templates built on Bootstrap.
 
-You can use the templates from the list below to build your project. If you find a good and attractive template that is free, feel free to add it to the list.
+<a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/alfinauzikri/Admin-Template-and-UI-Kit"></a> <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/alfinauzikri/Admin-Template-and-UI-Kit"></a> <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/alfinauzikri/Admin-Template-and-UI-Kit"></a><br>
 
+**Free** and **open-source** HTML Admin Dashboard Templates built on Bootstrap.
+
+You can use the templates from the list below to build your project. If you find a good and attractive template that is free, feel free to add it to the list. 
+
+### HTML Templates
 Name | Description | Links
 ------------ | ------- | -------
 **Adminator** | Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more | [**_Repository_**](https://github.com/puikinsh/Adminator-admin-dashboard) - [**_Live Preview_**](https://colorlib.com/polygon/adminator/index.html) - [**_Download_**](https://github.com/puikinsh/Adminator-admin-dashboard/releases)
@@ -35,3 +39,6 @@ Name | Description | Links
 **Stisla** | Stisla will help you to speed up your project, design your own dashboard UI and the users will love it. | [**_Repository_**](https://github.com/stisla/stisla) - [**_Live Preview_**](https://demo.getstisla.com/) - [**_Download_**](https://github.com/stisla/stisla/releases)
 **Tabler** | Premium and Open Source dashboard template with responsive and high quality UI. | [**_Repository_**](https://github.com/tabler/tabler) - [**_Live Preview_**](https://preview.tabler.io/) - [**_Download_**](https://github.com/tabler/tabler/releases)
 **Volt** | Open source dashboard powered by Bootstrap 5. | [**_Repository_**](https://github.com/themesberg/volt-bootstrap-5-dashboard) - [**_Live Preview_**](https://demo.themesberg.com/volt/pages/dashboard/dashboard.html) - [**_Download_**](https://github.com/themesberg/volt-bootstrap-5-dashboard/releases)
+
+### React Templates
+Coming soon..
