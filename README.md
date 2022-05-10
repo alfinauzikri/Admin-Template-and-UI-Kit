@@ -42,3 +42,6 @@ Name | Description | Links
 
 ### React Templates
 Coming soon..
+
+### VueJS Templates
+Coming soon..
