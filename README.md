@@ -1,6 +1,6 @@
 # Admin Template and UI Kit
 
-<!-- <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/alfinauzikri/Admin-Template-and-UI-Kit"></a> <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/alfinauzikri/Admin-Template-and-UI-Kit"></a> <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/alfinauzikri/Admin-Template-and-UI-Kit"></a><br> -->
+<a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/alfinauzikri/Admin-Template-and-UI-Kit"></a> <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/alfinauzikri/Admin-Template-and-UI-Kit"></a> <a href="https://github.com/alfinauzikri/Admin-Template-and-UI-Kit/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/alfinauzikri/Admin-Template-and-UI-Kit"></a><br>
 
 **Free** and **open-source** HTML Admin Dashboard Templates built on Bootstrap.
 
