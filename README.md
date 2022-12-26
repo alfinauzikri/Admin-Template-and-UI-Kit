@@ -49,6 +49,15 @@ free, feel free to add it to the list.
                     href="https://github.com/ColorlibHQ/AdminLTE/releases"><strong><em>Download</em></strong></a></td>
         </tr>
         <tr>
+            <td><strong>Atlantis Lite</strong></td>
+            <td>Free Bootstrap 4 Admin Dashboard.</td>
+            <td><a href="https://github.com/themekita/Atlantis-Lite"><strong><em>Repository</em></strong></a>
+                - <a href="http://themekita.com/demo-atlantis-lite-bootstrap/" rel="nofollow"><strong><em>Live
+                            Preview</em></strong></a> - <a
+                    href="https://github.com/themekita/Atlantis-Lite/archive/refs/heads/master.zip"><strong><em>Download</em></strong></a>
+            </td>
+        </tr>
+        <tr>
             <td><strong>Azia Admin</strong></td>
             <td>A free admin dashboard template built with Bootstrap 4.</td>
             <td><a
