@@ -319,6 +319,16 @@ free, feel free to add it to the list.
                     href="https://github.com/tabler/tabler/releases"><strong><em>Download</em></strong></a></td>
         </tr>
         <tr>
+            <td><strong>Vali Admin</strong></td>
+            <td>Free Bootstrap 5 admin/dashboard template.</td>
+            <td><a
+                    href="https://github.com/pratikborsadiya/vali-admin"><strong><em>Repository</em></strong></a>
+                - <a href="https://pratikborsadiya.in/vali-admin/"
+                    rel="nofollow"><strong><em>Live Preview</em></strong></a> - <a
+                    href="https://github.com/pratikborsadiya/vali-admin/releases"><strong><em>Download</em></strong></a>
+            </td>
+        </tr>
+        <tr>
             <td><strong>Volt</strong></td>
             <td>Open source dashboard powered by Bootstrap 5.</td>
             <td><a
