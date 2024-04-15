@@ -342,7 +342,24 @@ free, feel free to add it to the list.
 </table>
 
 ### React Templates
-Coming soon..
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Links</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Horizon UI</strong></td>
+            <td>Horizon UI is a trendy pack of free open-source React admin dashboard templates, featuring
+                hundreds of UI components, forms, tables, charts and icons.</td>
+            <td><a href="https://github.com/horizon-ui"><strong><em>Repositories</em></strong></a> - <a
+                    href="https://horizon-ui.com" rel="nofollow"><strong><em>Download</em></strong></a>
+        </tr>
+    </tbody>
+</table>
 
 ### Vue Templates
 Coming soon..
